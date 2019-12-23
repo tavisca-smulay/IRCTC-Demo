@@ -1,0 +1,23 @@
+{
+	"trainNumber":"1100",
+	"trainName":"Express 1",
+	"stationList":["a","b","c","d","e","f","g","s"],
+	"timeList":["07:00","09:00","12:00","02:00","07:00","09:00","12:00","02:00"],
+	"numberOfSeats":200
+}
+
+{
+	"trainNumber":"1101",
+	"trainName":"Express 2",
+	"stationList":["h","i","c","d","e","f","j","k"],
+	"timeList":["07:00","09:00","12:00","02:00","07:00","09:00","12:00","02:00"],
+	"numberOfSeats":100
+}
+
+{
+	"trainNumber":"1102",
+	"trainName":"Express 3",
+	"stationList":["h","i","c","d","e","f","j","k"],
+	"timeList":["07:00","09:00","12:00","02:00","07:00","09:00","12:00","02:00"],
+	"numberOfSeats":100
+}
